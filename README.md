@@ -1,4 +1,8 @@
-![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg)
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg" alt="MasterHead" width="100%">
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Avnil Barot</h1>
 <h3 align="center">A Passionate Developer from India 🚀</h3>
